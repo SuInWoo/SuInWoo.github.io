@@ -14,3 +14,8 @@ end
 
 # 루비 3.0 이상에서 필요한 라이브러리 추가
 gem "webrick"
+
+gem "csv", "~> 3.3"
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 4.0"
+gem "mutex_m", "~> 0.3.0"
