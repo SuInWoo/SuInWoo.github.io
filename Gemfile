@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # 루비 버전을 고정하지 않고 현재 환경을 따르도록 설정
-ruby "3.3.0"
+ruby "~> 3.3.0"
 
 gem "jekyll", "~> 4.3.2"
 gem "jekyll-theme-chirpy", "~> 6.0"
