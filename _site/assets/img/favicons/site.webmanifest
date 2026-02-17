@@ -1,9 +1,9 @@
 
 
 {
-  "name": "Chirpy",
-  "short_name": "Chirpy",
-  "description": "A minimal, responsive and feature-rich Jekyll theme for technical writing.",
+  "name": "SuIn's Dev Blog",
+  "short_name": "SuIn's Dev Blog",
+  "description": "개발공부를 기록하는 블로그입니다.",
   "icons": [
     {
       "src": "/assets/img/favicons/web-app-manifest-192x192.png",
